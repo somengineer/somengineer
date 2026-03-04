@@ -1,35 +1,34 @@
-# Hi, I'm SOM
+# Hi, SOMEngineer here👋
 
-**Full Stack Developer | Cyber Security | Digital Engineer**
+**SOC Analyst • AI Engineer • Web Developer • Entrepreneur**
 
-I build production-grade systems that blend secure architecture, product delivery, and cinematic digital presentation.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge)](https://somengineer.netlify.app/)
+[![Website](https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge)](https://somengineer.netlify.app/)
+[![Building](https://img.shields.io/badge/BUILDING-555555?style=for-the-badge)](https://github.com/somengineer)
+[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-546979?style=for-the-badge)](https://github.com/somengineer)
 
-## Identity
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%"/>
+</p>
 
-- Location: United Kingdom
-- Email: `soyinkaoyindamolamalik@gmail.com`
-- Live Portfolio: `https://somengineer.netlify.app`
-- LinkedIn: `https://www.linkedin.com/in/somengineer`
+*"I build systems that don't call you at 3am 🚨" 
 
-## This Repository
+## 🚀About Me
+---
+🧑‍💻 About Me
 
-This is both:
-1. My GitHub profile repository (`somengineer/somengineer`)
-2. The source code for my portfolio website
+LMT alumni. 28. Dangerously curious.
 
-Core sections:
-- `web/pages/index.jsx` - Portfolio homepage
-- `web/pages/skills.jsx` - Skills page
-- `motion/` - Motion pipeline references
-- `scripts/` - Setup and render automation scripts
+→ Laying foundations in Full Stack Engineering
+→ Pushing into AI — agents, RAG pipelines, the good stuff
+→ Moonlighting as a 3D artist & CG worldbuilder
+→ Chronic Tech Founder (Soh-Wot?, .arc)
 
-## Core Stack
+I believe the best engineers are also the best tinkerers.
+Everything here is proof of work.
 
-- Next.js 14 / React 18
-- JavaScript / Node.js
-- Python + Bash automation
-- Security-first deployment practices
-
+## Skills
+---
 ## Languages & Frameworks
 
 [![Languages and Frameworks](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,react,nextjs,nodejs,express,mongodb,supabase,flask,gcp,html,css,tailwind)](https://skillicons.dev)
@@ -38,34 +37,12 @@ Core sections:
 
 [![Creative Suite](https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal)](https://skillicons.dev)
 
-## Contribution Graph
-
+## 📈Stats 
+---
 [![somengineer contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=somengineer&bg_color=0b1220&color=8ec5ff&line=f4be71&point=ffffff&area=true&hide_border=true)](https://github.com/somengineer)
 
-## Local Run
+## 📬 Connect
+---
+[Email](mailto:somengineer@tutamail.com) • [Website](https://somengineer.netlify.app/) • [LinkedIn](https://linkedin.com/in/somengineer) • [Twitter](https://twitter.com/somenginr)
+---
 
-```bash
-git clone https://github.com/somengineer/somengineer.git
-cd somengineer
-npm install
-npm run dev
-```
-
-Open: `http://localhost:3000`
-
-## Build
-
-```bash
-npm run build
-```
-
-Static export is configured in `web/next.config.js`.
-
-## Security and Deployment
-
-- Deployment guide: `docs/DEPLOYMENT.md`
-- Security policy: `docs/SECURITY.md`
-
-## License
-
-MIT (`LICENSE`)
