@@ -7,13 +7,11 @@
 [![Building](https://img.shields.io/badge/BUILDING-555555?style=for-the-badge)](https://github.com/somengineer)
 [![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-004d4d?style=for-the-badge)](https://github.com/somengineer)
 
-![Banner](./banner.png)
-
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%"/>
 </p>
 
-*"I build systems that don't call you at 3am 🚨" 
+            *"I build systems that don't call you at 3am 🚨" 
 
 ## 🚀About Me
 
