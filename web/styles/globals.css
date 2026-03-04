@@ -465,6 +465,26 @@ a {
   line-height: 1.7;
 }
 
+.skills-bands {
+  margin-top: 1.2rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.skills-band {
+  border: 1px solid var(--edge-light);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.68);
+  padding: 1rem;
+}
+
+.skills-band h2 {
+  margin: 0 0 0.8rem;
+  font-family: "Space Mono", monospace;
+  font-size: 1rem;
+  color: #202a41;
+}
+
 @media (max-width: 960px) {
   .cursor-orb,
   .hero-canvas {

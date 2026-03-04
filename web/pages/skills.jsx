@@ -34,6 +34,25 @@ const skillGroups = [
   },
 ];
 
+const languagesFrameworks = [
+  "C++",
+  "Java",
+  "Python",
+  "JavaScript",
+  "TypeScript",
+  "Rust",
+  "React",
+  "Next.js",
+  "Node.js",
+  "Express",
+  "Flask",
+  "MongoDB",
+  "Supabase",
+  "Tailwind CSS",
+];
+
+const creativeSuite = ["Blender", "Photoshop", "After Effects", "Premiere Pro", "Unreal Engine"];
+
 export default function SkillsPage() {
   return (
     <>
@@ -84,6 +103,30 @@ export default function SkillsPage() {
                   </ul>
                 </article>
               ))}
+            </div>
+
+            <div className="skills-bands">
+              <article className="skills-band">
+                <h2>Languages & Frameworks</h2>
+                <div className="chips">
+                  {languagesFrameworks.map((item) => (
+                    <span key={item} className="chip">
+                      {item}
+                    </span>
+                  ))}
+                </div>
+              </article>
+
+              <article className="skills-band">
+                <h2>Creative Suite</h2>
+                <div className="chips">
+                  {creativeSuite.map((item) => (
+                    <span key={item} className="chip">
+                      {item}
+                    </span>
+                  ))}
+                </div>
+              </article>
             </div>
           </div>
         </section>

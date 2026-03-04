@@ -30,6 +30,18 @@ Core sections:
 - Python + Bash automation
 - Security-first deployment practices
 
+## Languages & Frameworks
+
+[![Languages and Frameworks](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,react,nextjs,nodejs,express,mongodb,supabase,flask,gcp,html,css,tailwind)](https://skillicons.dev)
+
+## Creative Suite
+
+[![Creative Suite](https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal)](https://skillicons.dev)
+
+## Contribution Graph
+
+[![somengineer contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=somengineer&bg_color=0b1220&color=8ec5ff&line=f4be71&point=ffffff&area=true&hide_border=true)](https://github.com/somengineer)
+
 ## Local Run
 
 ```bash
