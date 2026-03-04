@@ -1,0 +1,100 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # ──────────────────────────────────────────────
+  # 1. Web — lint, build, static export
+  # ──────────────────────────────────────────────
+  web:
+    name: Web — lint & build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Build & export
+        run: npm run build
+
+      - name: Security audit
+        run: npm audit --audit-level=high
+        continue-on-error: true   # informational; harden to 'false' once deps are clean
+
+  # ──────────────────────────────────────────────
+  # 2. Scripts — Python syntax check
+  # ──────────────────────────────────────────────
+  scripts:
+    name: Scripts — Python syntax
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Check Python script syntax
+        run: python3 -m py_compile scripts/stitch_encode.py
+
+      - name: Check bash scripts
+        run: |
+          sudo apt-get install -y shellcheck
+          shellcheck scripts/setup_ubuntu.sh scripts/setup_fedora.sh scripts/render_blender.sh
+
+  # ──────────────────────────────────────────────
+  # 3. Deploy preview (Netlify) — main branch only
+  # ──────────────────────────────────────────────
+  deploy-preview:
+    name: Deploy — Netlify preview
+    needs: web
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install & build
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=web/out --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

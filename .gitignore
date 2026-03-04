@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+web/node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+web/.next/
+web/out/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Render outputs (large binary — use Git LFS or ignore)
+motion/renders/*.png
+motion/renders/*.exr
+motion/renders/*.mp4
+motion/renders/*.mov
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp

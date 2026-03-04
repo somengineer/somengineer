@@ -1,0 +1,47 @@
+# ============================================================
+# videos.yml — video metadata consumed by the Next.js site
+# Replace PLACEHOLDER values with real YouTube URLs when live
+# ============================================================
+
+master:
+  title: "somengineer — 20s Demo Reel"
+  description: "Full cinematic showcase of motion demos and product previews."
+  youtube: "https://youtu.be/PLACEHOLDER_MASTER"
+  thumb: "/thumbnails/thumb_master_1920x1080.jpg"
+  duration: "0:20"
+
+scenes:
+  - id: wake
+    title: "Wake / POV"
+    description: "Opening POV sequence — micro-motion breathing and blink realism."
+    youtube: "https://youtu.be/PLACEHOLDER_SCENE_WAKE"
+    thumb: "/thumbnails/thumb_scene_wake.jpg"
+    frame_range: "1-60"
+
+  - id: door
+    title: "Door Push"
+    description: "Transition through a stylised threshold."
+    youtube: "https://youtu.be/PLACEHOLDER_SCENE_DOOR"
+    thumb: "/thumbnails/thumb_scene_wake.jpg"
+    frame_range: "61-145"
+
+  - id: wide
+    title: "Wide Establishing"
+    description: "Wide environment shot setting context for the product world."
+    youtube: "https://youtu.be/PLACEHOLDER_SCENE_WIDE"
+    thumb: "/thumbnails/thumb_master_1920x1080.jpg"
+    frame_range: "146-217"
+
+  - id: burst
+    title: "Apple → Burst Morph"
+    description: "Geometry Nodes particle morph — apple dispersing into data."
+    youtube: "https://youtu.be/PLACEHOLDER_SCENE_BURST"
+    thumb: "/thumbnails/thumb_scene_burst.jpg"
+    frame_range: "312-357"
+
+  - id: book
+    title: "Book / UI Reveal"
+    description: "Final product reveal with UI overlay and brand typography."
+    youtube: "https://youtu.be/PLACEHOLDER_SCENE_BOOK"
+    thumb: "/thumbnails/thumb_master_1920x1080.jpg"
+    frame_range: "358-480"
