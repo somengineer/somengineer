@@ -11,7 +11,7 @@
   <img src="./banner.png" alt="Banner" width="100%"/>
 </p>
 
-            *"I build systems that don't call you at 3am 🚨" 
+             "I build systems that don't call you at 3am 🚨" 
 
 ## 🚀About Me
 
@@ -19,13 +19,13 @@
 
 LMT alumni. 28. Dangerously curious.
 
-→ Laying foundations in Full Stack Engineering
+🫆 Laying foundations in Full Stack Engineering
 
-→ Pushing into AI — agents, RAG pipelines, the good stuff
+🤖 Pushing into AI — agents, RAG pipelines, the good stuff
 
-→ Moonlighting as a 3D artist & CG worldbuilder
+🎨 Moonlighting as a 3D artist & CG worldbuilder
 
-→ Chronic Tech Founder (Soh-Wot?, .arc)
+🌐 Chronic Tech Founder (soh-wot?, .arc)
 
 I believe the best engineers are also the best tinkerers.
 Everything here is proof of work.
@@ -36,7 +36,7 @@ Everything here is proof of work.
 
 [![Languages and Frameworks](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,react,nextjs,nodejs,express,mongodb,supabase,flask,gcp,html,css,tailwind)](https://skillicons.dev)
 
-## Creative Suite
+## 👽 Creative Suite
 
 [![Creative Suite](https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal)](https://skillicons.dev)
 
