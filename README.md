@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge)](https://somengineer.netlify.app/)
 [![Website](https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge)](https://somengineer.netlify.app/)
 [![Building](https://img.shields.io/badge/BUILDING-555555?style=for-the-badge)](https://github.com/somengineer)
-[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-456979?style=for-the-badge)](https://github.com/somengineer)
+[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-004d4d?style=for-the-badge)](https://github.com/somengineer)
 
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%"/>
@@ -20,14 +20,17 @@
 LMT alumni. 28. Dangerously curious.
 
 → Laying foundations in Full Stack Engineering
+
 → Pushing into AI — agents, RAG pipelines, the good stuff
+
 → Moonlighting as a 3D artist & CG worldbuilder
+
 → Chronic Tech Founder (Soh-Wot?, .arc)
 
 I believe the best engineers are also the best tinkerers.
 Everything here is proof of work.
 
-## Skills
+## 🤹Skills
 
 ## Languages & Frameworks
 
