@@ -1,12 +1,23 @@
 # Hi, SOMEngineer here👋
 
-**SOC Analyst • AI Engineer • Web Developer • Entrepreneur**
+<p align="center">
+  <strong>SOC Analyst • AI Engineer • Web Developer • Entrepreneur</strong>
+</p>
 
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge)](https://somengineer.netlify.app/)
-[![Website](https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge)](https://somengineer.netlify.app/)
-[![Building](https://img.shields.io/badge/BUILDING-555555?style=for-the-badge)](https://github.com/somengineer)
-[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-00CED1?style=for-the-badge)](https://github.com/somengineer)
-
+<p align="center">
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge" />
+  </a>
+  <a href="https://somengineer.com">
+    <img src="https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourrepo">
+    <img src="https://img.shields.io/badge/BUILDING-238636?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourrepo">
+    <img src="https://img.shields.io/badge/AEGIS_VI-00bcd4?style=for-the-badge" />
+  </a>
+</p>
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%"/>
 </p>
