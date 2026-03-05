@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge" />
   </a>
   <a href="https://github.com/yourrepo">
-    <img src="https://img.shields.io/badge/BUILDING-238636?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BUILDING-555555?style=for-the-badge" />
   </a>
   <a href="https://github.com/yourrepo">
     <img src="https://img.shields.io/badge/AEGIS_VI-00bcd4?style=for-the-badge" />
@@ -22,7 +22,7 @@
   <img src="./banner.png" alt="Banner" width="100%"/>
 </p>
 
-             "I build systems that don't call you at 3am 🚨" 
+                 "I build systems that don't call you at 3am 🚨" 
 
 ## 🚀About Me
 
