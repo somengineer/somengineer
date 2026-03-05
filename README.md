@@ -2,10 +2,10 @@
 
 **SOC Analyst • AI Engineer • Web Developer • Entrepreneur**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge)](https://somengineer.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge)](https://somengineer.netlify.app/)
 [![Website](https://img.shields.io/badge/SOMENGINEER.COM-6e40c9?style=for-the-badge)](https://somengineer.netlify.app/)
 [![Building](https://img.shields.io/badge/BUILDING-555555?style=for-the-badge)](https://github.com/somengineer)
-[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-004d4d?style=for-the-badge)](https://github.com/somengineer)
+[![AEGIS_VI](https://img.shields.io/badge/AEGIS_VI-00CED1?style=for-the-badge)](https://github.com/somengineer)
 
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%"/>
