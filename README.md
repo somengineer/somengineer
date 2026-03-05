@@ -34,7 +34,7 @@ LMT alumni. 28. Dangerously curious.
 
 🤖 Pushing into AI — agents, RAG pipelines, the good stuff
 
-🎨 Moonlighting as a 3D artist & CG worldbuilder
+🧊 Moonlighting as a 3D artist & CG worldbuilder
 
 🌐 Chronic Tech Founder (soh-wot?, .arc)
 
@@ -45,9 +45,9 @@ Everything here is proof of work.
 
 ## Languages & Frameworks
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,react,nextjs,nodejs,express,mongodb,supabase,flask,gcp,html,css,tailwind)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,react,nextjs,nodejs,express,mongodb,supabase,flask,gcp,html,css,tailwind,go,swift,kotlin,dart,flutter,vue.js,svelte,django,fastapi,graphql,pytorch,tensorflow,bash)](https://skillicons.dev)
 
-## 👽 Creative Suite
+## 🎨 Creative Suite
 
 [![Creative Suite](https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal)](https://skillicons.dev)
 
