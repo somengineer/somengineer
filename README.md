@@ -53,6 +53,11 @@ Everything here is proof of work.
 
 ## 📈Stats 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=somengineer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somengineer&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
 [![somengineer contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=somengineer&bg_color=0b1220&color=8ec5ff&line=f4be71&point=ffffff&area=true&hide_border=true)](https://github.com/somengineer)
 
 ## 📬 Connect
