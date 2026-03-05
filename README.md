@@ -20,9 +20,9 @@
 </p>
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%"/>
+"I build systems that don't call you at 3am 🚨"
 </p>
-
-                 "I build systems that don't call you at 3am 🚨" 
+ 
 
 ## 🚀About Me
 
