@@ -32,7 +32,7 @@ LMT alumni. 28. Dangerously curious.
 
 🫆 Laying foundations in Full Stack Engineering
 
-🤖 Pushing into AI — agents, RAG pipelines, the good stuff
+🤖 Pushing into Autonomous AI Agents, RAG pipelines, the good stuff
 
 🧊 Moonlighting as a 3D artist & CG worldbuilder
 
