@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/BUILDING-555555?style=for-the-badge" />
   </a>
   <a href="https://github.com/yourrepo">
-    <img src="https://img.shields.io/badge/AEGIS_VI-00bcd4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AEGIS_VI-013220?style=for-the-badge" />
   </a>
 </p>
 <p align="center">
