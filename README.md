@@ -28,7 +28,7 @@
 
 🧑‍💻 About Me
 
-LMT alumni. 28. Dangerously curious.
+LMT alumni. 28. Fatalistically drawn.
 
 🫆 Laying foundations in Full Stack Engineering
 
@@ -36,7 +36,7 @@ LMT alumni. 28. Dangerously curious.
 
 🧊 Moonlighting as a 3D artist & CG worldbuilder
 
-🌐 Chronic Tech Founder (soh-wot?, .arc)
+🌐 Chronic Tech Founder (soh-wot, /.arc, skiver)
 
 I believe the best engineers are also the best tinkerers.
 Everything here is proof of work.
